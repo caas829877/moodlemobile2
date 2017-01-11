@@ -1,6 +1,6 @@
 {
     "about": "About",
-    "appname": "Moodle Mobile {{version}}",
+    "appname": "CAAS Mobile {{3.0}}",
     "appready": "App ready",
     "cacheexpirationtime": "Cache expiration time (miliseconds)",
     "cordovadevicemodel": "Cordova Device model",
