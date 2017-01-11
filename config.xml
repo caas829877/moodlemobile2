@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="net.moodle.learn" version="1.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Learn Moodle</name>
-  <description>Official app for learn.moodle.net (Moodle MOOC)</description>
-  <author href="http://moodle.com" email="mobile@moodle.com">Moodle Mobile team</author>
+  <name>CAAS Student Portal</name>
+  <description>Shaping Career Since 2008</description>
+  <author href="http://caasgroup.net" email="mobile@caasgroup.net">CAAS Academy</author>
   <content src="index.html"/>
-  <access origin="*"/>
+  <access origin="http://student.caasgroup.net"/>
   <allow-navigation href="cdvfile:*"/>
   <allow-navigation href="content:*"/>
   <allow-navigation href="data:*"/>
-  <allow-intent href="*"/>
+  <allow-intent href="http://student.caasgroup.net"/>
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>
   <preference name="DisallowOverscroll" value="true"/>
